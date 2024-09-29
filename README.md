@@ -43,6 +43,7 @@ Applied PARTITION BY to analyze salary distribution and gender demographics with
 This SQL project showcases the creation and management of an employee database, demonstrating table creation, CRUD operations, advanced querying (joins, group by, subqueries), conditional logic, stored procedures, CTEs, and string functions to efficiently analyze employee demographics, salary trends, and data categorization
 
 # PROJECT 1 (SALES DATA ANALYSIS)
+The dataset used for this project can be downloaded [here](https://drive.google.com/file/d/1xOZc2z7p5jwEaL6GEjYeWIoE5B8Ysmpo/view?usp=drive_link).
 ## 1. Database and Table Creation
 Database Creation: A database Sql_Project is created to hold the project data.
 Table Creation: A Sales table is set up with various columns such as Customer, Products, Sales_Person, Region, Order_Date, Sales_Usd, Year, Month, Quarter, and Channel_Partners.
